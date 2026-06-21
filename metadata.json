@@ -1,0 +1,6 @@
+{
+  "name": "Water Tracker",
+  "description": "A clean, modern water intake tracker with customizable daily goals, logging history, and automated hydration reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

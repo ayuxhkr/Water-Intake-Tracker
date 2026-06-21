@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Water Tracker</string>
+    <string name="notification_channel_name">Hydration Reminders</string>
+    <string name="notification_channel_description">Reminds you to stay hydrated throughout the day</string>
+</resources>
